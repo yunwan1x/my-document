@@ -28,7 +28,7 @@ site_description: >-
 # Repository
 #repo_name: squidfunk/mkdocs-material
 #repo_url: https://github.com/squidfunk/mkdocs-material
-edit_uri: ""
+edit_uri: "https://github.com/yunwan1x/my-document/blob/master/docs/"
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2021 Yun Wang
