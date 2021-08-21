@@ -6,7 +6,7 @@ hide:
 
 本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建，构建时间: 2021-08-21 07:33 UTC
 
-[![CI](https://github.com/yunwan1x/awesome-cn/actions/workflows/main.yml/badge.svg)](https://github.com/yunwan1x/awesome-cn/actions/workflows/main.yml)
+[![CI](https://github.com/yunwan1x/my-document/actions/workflows/document.yml/badge.svg)](https://github.com/yunwan1x/awesome-cn/actions/workflows/main.yml)
 ## 剑指offer
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
