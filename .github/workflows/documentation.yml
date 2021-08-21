@@ -32,8 +32,8 @@ on:
         description: 'location'
         required: false
         default: 'The Octoverse'
-  #push:
-  #  branches: [ master ]
+  push:
+   branches: [ master ]
   #pull_request:
   #  branches: [ master ]
   schedule:
