@@ -33,7 +33,7 @@ on:
         required: false
         default: 'The Octoverse'
   push:
-   branches: [ master ]
+   branches: [ main ]
   #pull_request:
   #  branches: [ master ]
   schedule:
