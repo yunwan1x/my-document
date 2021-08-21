@@ -42,11 +42,16 @@ hide:
 ## 博客
 1. [阮一峰](https://www.ruanyifeng.com/blog/archives.html)
 
-!!!info abc
-      1. [man pages](https://linux.die.net/)
-      2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
-      3. [linux命令行](
-      https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
-      4. [bash教程](https://wangdoc.com/bash/intro.html)
-      3. abc
+## 文档生成器
+1. [sphinx](https://iridescent.ink/HowToMakeDocs/Basic/intro.html)
+2. [无渲染生成器](https://docsify.js.org/#/)
+
+## linux
+1. [man pages](https://linux.die.net/)
+2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
+3. [linux命令行](
+https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+4. [bash教程](https://wangdoc.com/bash/intro.html)
+
+     
       
