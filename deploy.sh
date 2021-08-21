@@ -19,7 +19,8 @@ if [ "$1" != "dry" ]; then
     git config user.email "$EMAIL"
 fi
 
-
+time=`date +'%Y-%m-%d %H:%M %Z'`
+sed -i "s/.*本文档采用.*构建.*/本文档采用 [mkdocs](https:\/\/github.com\/mkdocs\/mkdocs) 构建，构建时间: $time /g" ./docs/index.md
 
 
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
