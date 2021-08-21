@@ -7,7 +7,7 @@
     {% set class = class ~ " md-nav__item--active" %}
   {% endif %}
   {% if nav_item.children %}
-    {% if "navigation.sections" in features and level == "1" + (
+    {% if "navigation.sections" in features and level == 1 + (
       "navigation.tabs" in features
     ) %}
       {% set class = class ~ " md-nav__item--section" %}
