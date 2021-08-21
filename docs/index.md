@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 
 本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建，构建时间: 2021-08-21 07:33 UTC
 
