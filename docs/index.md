@@ -32,6 +32,7 @@ hide:
 2. [书栈网](https://www.bookstack.cn/)
 3. [build your own](https://github.com/danistefanovic/build-your-own-x)
 1. [机器学习](https://github.com/d2l-ai/d2l-zh)
+2. [c语言中文网](http://c.biancheng.net/)
 
 ## cheatsheet
 1. [cheetsheet](https://cheatography.com/)
