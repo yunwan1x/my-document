@@ -1,7 +1,4 @@
----
-hide:
-#  - toc
----
+
 
 
 本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建，构建时间: 2021-08-21 07:33 UTC
@@ -34,6 +31,7 @@ hide:
 1. [机器学习](https://github.com/d2l-ai/d2l-zh)
 2. [c语言中文网](http://c.biancheng.net/)
 3. [菜鸟教程](https://www.runoob.com/)
+4. [极客学院](https://wiki.jikexueyuan.com/)
 
 ## cheatsheet
 1. [cheetsheet](https://cheatography.com/)
