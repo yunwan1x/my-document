@@ -4,6 +4,15 @@
 本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建，构建时间: 2021-08-21 07:33 UTC
 
 [![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg)](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml)
+## 数字图书馆
+1. [图书馆参考联盟](http://www.ucdrs.superlib.net/)
+2. [google图书](https://books.google.com/)
+3. [amazon图书](https://www.amazon.cn/s?k=linux&dc&__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&qid=1603986376&ref=sr_ex_n_0)
+4. [豆瓣](https://book.douban.com/)
+5. [当当](http://book.dangdang.com/)
+6. [多看](https://www.duokan.com/list/6-1)
+7. [京东](https://channel.jd.com/1713-3287.html)
+
 ## 剑指offer
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
