@@ -82,7 +82,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: favicon.ico
   icon:
     logo: fontawesome/brands/github
 
