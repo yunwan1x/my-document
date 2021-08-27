@@ -13,6 +13,8 @@
 6. [多看](https://www.duokan.com/list/6-1)
 7. [京东](https://channel.jd.com/1713-3287.html)
 
+## 云原生实验室
+1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
 ## 剑指offer
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
