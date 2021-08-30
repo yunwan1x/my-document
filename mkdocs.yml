@@ -150,4 +150,5 @@ markdown_extensions:
 # Page tree
 nav:
   - Home:
-      - 我的文档: index.md
+      - 主页: index.md
+      - 搜索引擎: search-engine.md
