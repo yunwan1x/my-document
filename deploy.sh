@@ -20,7 +20,7 @@ if [ "$1" != "dry" ]; then
 fi
 
 time=`date +'%m\/%d %H:%M:%S %z'`
-times=`grep -Po 'push_times\-(\d+)\-'  ./docs/index.md |grep -Po '(\d+)' ./docs/index.md`
+times=`grep -Po 'push_times\-(\d+)\-'  ./docs/index.md |grep -Po '(\d+)' `
 echo pushtimes: $times
 ((times++))
 
