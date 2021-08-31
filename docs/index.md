@@ -1,6 +1,7 @@
-本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建，构建时间: 2021-08-21 07:33 UTC
 
 [![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg)](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml)
+![buidtime](https://img.shields.io/badge/build_time-08/20_10:00:00-519dd9.svg)
+![push_times](https://img.shields.io/badge/push_times-100-orange.svg)
 
 # :material-library: 数字图书馆
 1. [图书馆参考联盟](http://www.ucdrs.superlib.net/)

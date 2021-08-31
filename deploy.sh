@@ -19,8 +19,15 @@ if [ "$1" != "dry" ]; then
     git config user.email "$EMAIL"
 fi
 
-time=`date +'%Y-%m-%d %H:%M %Z'`
-sed -i "s/.*本文档采用.*构建.*/本文档采用 [mkdocs](https:\/\/github.com\/mkdocs\/mkdocs) 构建，构建时间: $time /g" ./docs/index.md
+time=`date +'%m\/%d %H:%M:%S %z'`
+times=`grep -Po 'push_times\-(\d+)\-'  ./docs/index.md |grep -Po '(\d+)' ./docs/index.md`
+((times++))
+
+sed -i "s/.*![buidtime].*/![buidtime](https:\/\/img.shields.io\/badge\/build_time-$time-519dd9.svg) /g" ./docs/index.md
+sed -i "s/.*![push_times].*/![push_times](https:\/\/img.shields.io\/badge\/push_times-$times-orange.svg) /g" ./docs/index.md
 
 
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
+
+
+
