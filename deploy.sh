@@ -24,8 +24,8 @@ times=`grep -Po 'push_times\-(\d+)\-'  ./docs/index.md |grep -Po '(\d+)' `
 echo pushtimes: $times
 ((times++))
 
-sed -i "s/.*![buidtime].*/![buidtime](https:\/\/img.shields.io\/badge\/build_time-$time-519dd9.svg) /g" ./docs/index.md
-sed -i "s/.*![push_times].*/![push_times](https:\/\/img.shields.io\/badge\/push_times-$times-orange.svg) /g" ./docs/index.md
+sed -i "s/.*[buidtime].*/\![buidtime](https:\/\/img.shields.io\/badge\/build_time-$time-519dd9.svg) /g" ./docs/index.md
+sed -i "s/.*[push_times].*/\![push_times](https:\/\/img.shields.io\/badge\/push_times-$times-orange.svg) /g" ./docs/index.md
 
 
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
