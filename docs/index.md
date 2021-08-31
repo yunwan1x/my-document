@@ -1,7 +1,6 @@
-
 [![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg)](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml)
-![buidtime](https://img.shields.io/badge/build_time-08/20_10:00:00-519dd9.svg)
-![push_times](https://img.shields.io/badge/push_times-100-orange.svg)
+![buidtime](https://img.shields.io/badge/build_time-08/31_23:35:38_+0800-519dd9.svg) 
+![push_times](https://img.shields.io/badge/push_times-110-orange.svg) 
 
 # :material-library: 数字图书馆
 1. [图书馆参考联盟](http://www.ucdrs.superlib.net/)
@@ -64,7 +63,7 @@
 1. [man pages](https://linux.die.net/)
 2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
 3. [linux命令行](
-https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+   https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
 4. [bash教程](https://wangdoc.com/bash/intro.html)
 5. [shell编程范例](https://tinylab-1.gitbook.io/shellbook/)
 
