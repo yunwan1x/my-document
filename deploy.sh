@@ -21,6 +21,7 @@ fi
 
 time=`date +'%m\/%d %H:%M:%S %z'`
 times=`grep -Po 'push_times\-(\d+)\-'  ./docs/index.md |grep -Po '(\d+)' ./docs/index.md`
+echo pushtimes: $times
 ((times++))
 
 sed -i "s/.*![buidtime].*/![buidtime](https:\/\/img.shields.io\/badge\/build_time-$time-519dd9.svg) /g" ./docs/index.md
