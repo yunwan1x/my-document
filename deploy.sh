@@ -27,7 +27,7 @@ sed -i "s/.*\[buidtime\].*/![buidtime](https:\/\/img.shields.io\/badge\/build_ti
 sed -i "s/.*\[push_times\].*/![push_times](https:\/\/img.shields.io\/badge\/push_times-$times-orange.svg) /g" ./docs/index.md
 
 
-
+git add index.md && git commit -m "update by github action" && git push
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
 
 
