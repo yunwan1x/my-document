@@ -1,6 +1,6 @@
 [![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg)](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml)
-![buidtime](https://img.shields.io/badge/build_time-08/31_23:35:38_+0800-519dd9.svg) 
-![push_times](https://img.shields.io/badge/push_times-110-orange.svg) 
+![buidtime](https://img.shields.io/badge/build_time-08/31_23:48:26_+0800-519dd9.svg) 
+![push_times](https://img.shields.io/badge/push_times-117-orange.svg) 
 
 # :material-library: 数字图书馆
 1. [图书馆参考联盟](http://www.ucdrs.superlib.net/)
