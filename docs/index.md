@@ -13,7 +13,7 @@
 
 # :material-cloud: 云原生实验室
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
-2. [tinylab linux实验室](http://tinylab.org/)
+2. [tinylab linux实验室](http://tinylab.org/) :star:
 
 # :material-offer: 剑指offer
 1. [csnote](https://www.cyc2018.xyz/)
