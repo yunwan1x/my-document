@@ -19,7 +19,7 @@ if [ "$1" != "dry" ]; then
     git config user.email "$EMAIL"
 fi
 
-time=`TZ=UTC-8 date +'%m\/%d_%H:%M:%S_%z'`
+time=`TZ=UTC-8 date +'%m\/%d_%H:%M:%S'`
 times=`grep -Po 'push_times\-(\d+)\-'  ./docs/index.md |grep -Po '(\d+)' `
 times=`expr $times + 1`
 
