@@ -27,7 +27,7 @@ label="![CI](https:\/\/github.com\/yunwan1x\/my-document\/actions\/workflows\/do
 sed -i "s/.*\[buidtime\].*)/$label/g" ./docs/index.md
 
 
-git add index.md && git commit -m "update by github action" && git push
+git add ./docs/index.md && git commit -m "update by github action" && git push
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
 
 
