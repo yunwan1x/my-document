@@ -7,7 +7,7 @@ site_description: >-
 # Repository
 #repo_name: squidfunk/mkdocs-material
 #repo_url: https://github.com/squidfunk/mkdocs-material
-edit_uri: "https://github.com/yunwan1x/my-document/blob/master/docs/"
+edit_uri: "https://yunwan1x.github.io/my-document#path="
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2021 Yun Wang
@@ -73,7 +73,7 @@ plugins:
   - redirects:
       redirect_maps:
         changelog/insiders.md: insiders/changelog.md
- 
+
   - minify:
       minify_html: true
 
@@ -82,8 +82,8 @@ extra_css:
   - css/extra.css
 
 extra_javascript:
-  - js/extra.js  
-  
+  - js/extra.js
+
 extra:
   search:
     language: 'jp'
