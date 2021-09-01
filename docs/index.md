@@ -14,7 +14,7 @@
 
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
 2. [tinylab linux实验室](http://tinylab.org/) :star:
-3. [开发者头条](https://toutiao.io/posts/hot/7):star:
+3. [开发者头条](https://toutiao.io/posts/hot/7) :star:
 
 # :material-offer: 剑指offer
 
