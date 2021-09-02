@@ -70,7 +70,6 @@ theme:
 # Plugins
 plugins:
   - search
-  - git-revision-date-localized
   - redirects:
       redirect_maps:
         changelog/insiders.md: insiders/changelog.md
