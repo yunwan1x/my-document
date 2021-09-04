@@ -1,4 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/04_05:07:34-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-137-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/04_09:30:10-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-138-orange.svg)
 
 # :material-library: 数字图书馆
 
