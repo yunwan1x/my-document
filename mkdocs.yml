@@ -73,7 +73,7 @@ plugins:
   - git-revision-date-localized
       type: iso_datetime
       timezone: Aisa/Shanghai
-      locale: zh
+      locale: zh-CN
       fallback_to_build_date: false
       enable_creation_date: true
   - redirects:
