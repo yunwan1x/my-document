@@ -18,9 +18,9 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-name: CI
+name: build
 env:
-  PYTHON_VERSION: 3.9.6
+  PYTHON_VERSION: 3.x
 on:
   workflow_dispatch:
     inputs:
