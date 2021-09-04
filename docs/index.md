@@ -8,7 +8,7 @@
 4. [豆瓣](https://book.douban.com/)
 5. [当当](http://book.dangdang.com/)
 6. [多看](https://www.duokan.com/list/6-1)
-7. [京东](https://channel.jd.com/1713-3287.html)
+7. **[京东](https://channel.jd.com/1713-3287.html)**
 
 # :material-cloud: 云原生实验室
 
@@ -20,7 +20,7 @@
 
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
-3. [labuladong算法](https://github.com/labuladong/fucking-algorithm)
+3. **[labuladong算法](https://github.com/labuladong/fucking-algorithm)**
 
 # :fontawesome-brands-github: 开源社区
 
