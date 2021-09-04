@@ -72,7 +72,7 @@ plugins:
   - search
   - git-revision-date-localized:
       type: iso_datetime
-      timezone: Aisa/Shanghai
+      timezone: Asia/Hong_Kong
       locale: "zh_CN"
       fallback_to_build_date: false
       enable_creation_date: true
