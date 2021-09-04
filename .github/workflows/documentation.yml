@@ -20,7 +20,7 @@
 
 name: CI
 env:
-  PYTHON_VERSION: 3.9.5
+  PYTHON_VERSION: 3.9.6
 on:
   workflow_dispatch:
     inputs:
