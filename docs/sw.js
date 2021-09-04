@@ -6,7 +6,7 @@
  * Register service worker.
  * ========================================================== */
 
-const RUNTIME = ''
+const RUNTIME = 'playground'
 const HOSTNAME_WHITELIST = [
     self.location.hostname,
     'fonts.gstatic.com',
