@@ -1,5 +1,3 @@
-<script>
-    if (typeof navigator.serviceWorker !== 'undefined') {
-    navigator.serviceWorker.register('js/sw.js')
+if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
 }
-</script>
