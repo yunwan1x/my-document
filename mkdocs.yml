@@ -70,12 +70,13 @@ theme:
 # Plugins
 plugins:
   - search
-  - git-revision-date-localized
+  - git-revision-date-localized:
       type: iso_datetime
       timezone: Aisa/Shanghai
-      locale: zh-CN
+      locale: "zh"
       fallback_to_build_date: false
       enable_creation_date: true
+
   - redirects:
       redirect_maps:
         changelog/insiders.md: insiders/changelog.md
