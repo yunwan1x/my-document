@@ -1,4 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/04_15:32:54-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-159-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/05_09:30:42-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-162-orange.svg)
 
 # :material-library: 数字图书馆
 
@@ -68,6 +68,7 @@
 4. [docusaurus](https://www.docusaurus.cn/docs)
 5. [hexo](https://hexo.io/zh-cn/docs/)
 6. [mkdocs](https://www.mkdocs.org/)
+7. [docusaurus](https://www.docusaurus.cn/)
 
 # :fontawesome-brands-linux:  linux
 
