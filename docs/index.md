@@ -49,6 +49,7 @@
 5. [c语言中文网](http://c.biancheng.net/)
 6. [菜鸟教程](https://www.runoob.com/)
 7. [极客学院](https://wiki.jikexueyuan.com/)
+8. [docker教程](https://yeasy.gitbook.io/docker_practice/) ⭐️⭐️⭐️
 
 # :material-note: cheatsheet
 
