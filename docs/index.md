@@ -1,4 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/08_05:07:37-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-169-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/08_01:10:17-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-168-orange.svg)
 
 # :material-library: 数字图书馆
 
@@ -78,3 +78,9 @@
 3. [linux命令行](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
 4. [bash教程](https://wangdoc.com/bash/intro.html)
 5. [shell编程范例](https://tinylab-1.gitbook.io/shellbook/)
+
+
+# ✈️ gitbook
+
+1. [springboot](https://jack80342.gitbook.io/spring-boot/iv.-spring-boot-features)
+2. [java学习指南](https://yunlzheng.gitbook.io/prometheus-book/)
