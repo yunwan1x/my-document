@@ -14,7 +14,12 @@
 # :octicons-image-16: 图片搜索
 
 1. [pinterest](https://www.pinterest.com/)
+2. [微软壁纸/](https://wallpaperhub.app/)
+3. [iconfont](https://www.iconfont.cn/)
 
 # :material-microsoft-excel: 文档搜索
+
+1. [PPT超级市场](https://pptsupermarket.com/)
+2. [officeplus](https://www.officeplus.cn/Template/Home.shtml)
 
 # :video_camera: 视频搜索
