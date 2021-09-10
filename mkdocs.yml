@@ -98,8 +98,14 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
+    - icon: fontawesome/brands/linux
+      link: https://yunwan1x.github.io
     - icon: fontawesome/brands/github
       link: https://squidfunk.github.io/mkdocs-material/getting-started/
+    - icon: fontawesome/brands/git
+      link: https://yunwan1x.github.io/playground/#/ 
+    - icon: fontawesome/brands/js
+      link: https://yunwan1x.github.io/awesomecn/#/   
 
 
 # Extensions
