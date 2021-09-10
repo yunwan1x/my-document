@@ -92,6 +92,7 @@ extra_javascript:
   - js/extra.js
 
 extra:
+  homepage: https://yunwan1x.github.io
   search:
     language: 'jp'
   analytics:
