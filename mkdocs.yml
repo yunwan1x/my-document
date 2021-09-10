@@ -1,5 +1,6 @@
 site_name: 彩虹糖
 site_author: Yun Wang
+site_url: https://yunwan1x.github.io
 site_description: >-
   我的文档
 
@@ -100,9 +101,9 @@ extra:
     - icon: fontawesome/brands/linux
       link: https://yunwan1x.github.io
     - icon: fontawesome/brands/git
-      link: https://yunwan1x.github.io/playground/#/ 
+      link: https://yunwan1x.github.io/playground/#/
     - icon: fontawesome/brands/js
-      link: https://yunwan1x.github.io/awesomecn/#/   
+      link: https://yunwan1x.github.io/awesomecn/#/
 
 
 # Extensions
