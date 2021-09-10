@@ -2,7 +2,7 @@
 
 # å·¥å…·ç®±
 
-1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https) í ½í±í ¼í·¦í ¼í·½â¤ï¸
+1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https) â¤ï¸
 
 # :material-library: æ•°å­—å›¾ä¹¦é¦†
 
