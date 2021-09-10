@@ -146,3 +146,4 @@ nav:
   - Home:
       - 主页: index.md
       - 搜索引擎: search-engine.md
+      - 云原生: cloudnative.md
