@@ -64,7 +64,7 @@ theme:
     code: Roboto Mono
   favicon: favicon.ico
   icon:
-    logo: fontawesome/brands/github
+    logo: fontawesome/brands/linux
 
 
 # Plugins
@@ -103,7 +103,7 @@ extra:
     - icon: fontawesome/brands/git
       link: https://yunwan1x.github.io/playground/#/
     - icon: fontawesome/brands/js
-      link: https://yunwan1x.github.io/awesomecn/#/
+      link: https://yunwan1x.github.io/awesome-cn/
 
 
 # Extensions
