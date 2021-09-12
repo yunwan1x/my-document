@@ -1,5 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/12_17:39:49-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-194-orange.svg)
-
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/12_14:11:33-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-193-orange.svg)
 
 # 需要整理的主题
 
@@ -9,11 +8,7 @@
 
 # 工具箱
 
-1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https) ❤️
-2. [技术元](http://51otech.com/index)
-3. [有趣网址之家](https://youquhome.com/)
-4. [有趣网站-知乎](https://www.zhihu.com/question/19595234)
-5.
+1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https)
 
 # :material-library: 数字图书馆
 
@@ -28,8 +23,8 @@
 # :material-cloud: 云原生实验室
 
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
-2. [tinylab linux实验室](http://tinylab.org/) ⭐️
-3. [开发者头条](https://toutiao.io/posts/hot/7) :star:
+2. [tinylab linux实验室](http://tinylab.org/)
+3. [开发者头条](https://toutiao.io/posts/hot/7)
 
 # :material-offer: 剑指offer
 
@@ -64,7 +59,7 @@
 5. [c语言中文网](http://c.biancheng.net/)
 6. [菜鸟教程](https://www.runoob.com/)
 7. [极客学院](https://wiki.jikexueyuan.com/)
-8. [docker教程](https://yeasy.gitbook.io/docker_practice/) ⭐️⭐️⭐️
+8. [docker教程](https://yeasy.gitbook.io/docker_practice/)
 
 # :material-note: cheatsheet
 
