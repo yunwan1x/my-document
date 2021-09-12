@@ -3,6 +3,7 @@
 # 工具箱
 
 1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https) ❤️
+2. [技术元](http://51otech.com/index)
 
 # :material-library: 数字图书馆
 
