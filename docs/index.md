@@ -1,4 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/12_17:41:48-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-194-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/12_19:36:12-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-195-orange.svg)
 
 # 需要整理的主题
 
