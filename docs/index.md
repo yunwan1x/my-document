@@ -1,9 +1,19 @@
 ![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/12_11:39:47-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-190-orange.svg)
 
+
+# 需要整理的主题
+
+1. 有趣的网站， ppt，办公神器，效率工具，编程，架构，生活，读书
+2. 股市，投资。
+3. 外语
+
 # 工具箱
 
 1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https) ❤️
 2. [技术元](http://51otech.com/index)
+3. [有趣网址之家](https://youquhome.com/)
+4. [有趣网站-知乎](https://www.zhihu.com/question/19595234)
+5.
 
 # :material-library: 数字图书馆
 
