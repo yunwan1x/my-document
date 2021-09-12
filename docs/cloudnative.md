@@ -1,3 +1,4 @@
-# â˜ï¸ äº‘åŸç”Ÿ
-1. [k3s](https://docs.rancher.cn/docs/k3s/_index)
+# í ½í³† äº‘åŸç”Ÿ
+
+1. [k3sæ–‡æ¡£](https://docs.rancher.cn/docs/k3s/_index)
 2. [k8s document](https://kubernetes.io/zh/)
