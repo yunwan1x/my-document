@@ -8,7 +8,10 @@
 
 # 工具箱
 
-1. [toolnb](http://www.toolnb.com/tools/logo.html?no_https)
+1. [toolnb](http://www.toolnb.com/toolslist/167.html)
+2. [tool-lu](https://tool.lu/)
+3. [脚本之家工具箱](http://tools.jb51.net/)
+4. [atoolbox](http://www.atoolbox.net/)
 
 # :material-library: 数字图书馆
 
