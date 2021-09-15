@@ -64,6 +64,7 @@
 7. [极客学院](https://wiki.jikexueyuan.com/)
 8. [docker教程](https://yeasy.gitbook.io/docker_practice/)
 9. [阮一峰网道合计](https://github.com/wangdoc)
+10. [liaoxuefeng](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
 # :material-note: cheatsheet
 
