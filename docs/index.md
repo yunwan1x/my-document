@@ -56,15 +56,16 @@
 
 # :books: 精品教程
 
-2. [书栈网](https://www.bookstack.cn/)
-3. [build your own](https://github.com/danistefanovic/build-your-own-x)
-4. [机器学习](https://github.com/d2l-ai/d2l-zh)
-5. [c语言中文网](http://c.biancheng.net/)
-6. [菜鸟教程](https://www.runoob.com/)
-7. [极客学院](https://wiki.jikexueyuan.com/)
-8. [docker教程](https://yeasy.gitbook.io/docker_practice/)
-9. [阮一峰网道合计](https://github.com/wangdoc)
-10. [liaoxuefeng](https://www.liaoxuefeng.com/wiki/1016959663602400)
+3. [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm) ⭐️ ⭐️ ⭐️ ⭐️
+4. [书栈网](https://www.bookstack.cn/)
+5. [build your own](https://github.com/danistefanovic/build-your-own-x)
+6. [机器学习](https://github.com/d2l-ai/d2l-zh)
+7. [c语言中文网](http://c.biancheng.net/)
+8. [菜鸟教程](https://www.runoob.com/)
+9. [极客学院](https://wiki.jikexueyuan.com/)
+10. [docker教程](https://yeasy.gitbook.io/docker_practice/)
+11. [阮一峰网道合计](https://github.com/wangdoc)
+12. [liaoxuefeng](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
 # :material-note: cheatsheet
 
