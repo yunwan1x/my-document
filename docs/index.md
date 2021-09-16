@@ -13,7 +13,7 @@
 3. [脚本之家工具箱](http://tools.jb51.net/)
 4. [atoolbox](http://www.atoolbox.net/)
 
-# :material-library: 数字图书馆
+# 数字图书馆
 
 1. [图书馆参考联盟](http://www.ucdrs.superlib.net/)
 2. [google图书](https://books.google.com/)
@@ -23,19 +23,19 @@
 6. [多看](https://www.duokan.com/list/6-1)
 7. [京东](https://channel.jd.com/1713-3287.html)
 
-# :material-cloud: 云原生实验室
+#  云原生实验室
 
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
 2. [tinylab linux实验室](http://tinylab.org/)
 3. [开发者头条](https://toutiao.io/posts/hot/7)
 
-# :material-offer: 剑指offer
+# 剑指offer
 
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
 3. [labuladong算法](https://github.com/labuladong/fucking-algorithm)
 
-# :fontawesome-brands-github: 开源社区
+# 开源社区
 
 1. [github排行榜](https://www.githubs.cn/top)
 2. [libs.garden](https://libs.garden/)
@@ -46,7 +46,7 @@
 7. [cncf基金会](https://www.cncf.io/projects/)
 8. [awesome list](https://github.com/sindresorhus/awesome#programming-languages)
 
-# :fontawesome-brands-github: 开源软件
+# 开源软件
 
 1. [alternativeto](https://alternativeto.net/)
 2. [alternativeto chinese](https://zh.altapps.net/)
@@ -54,7 +54,7 @@
 4. [chocolatey](https://chocolatey.org/)
 5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
-# :books: 精品教程
+#  精品教程
 
 3. [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm) ⭐️ ⭐️ ⭐️ ⭐️
 4. [书栈网](https://www.bookstack.cn/)
@@ -67,17 +67,17 @@
 11. [阮一峰网道合计](https://github.com/wangdoc)
 12. [liaoxuefeng](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
-# :material-note: cheatsheet
+# cheatsheet
 
 1. [cheetsheet](https://cheatography.com/)
 2. [awesome cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets)
 3. [awesome cheatsheet中文版](https://github.com/yunwan1x/awesome-cheatsheets)
 
-# :material-blogger: 博客
+# 博客
 
 1. [阮一峰](https://www.ruanyifeng.com/blog/archives.html)
 
-# :material-file-document: 文档生成器
+#  文档生成器
 
 1. [sphinx](https://iridescent.ink/HowToMakeDocs/Basic/intro.html)
 2. [无渲染生成器](https://docsify.js.org/#/)
@@ -87,7 +87,7 @@
 6. [mkdocs](https://www.mkdocs.org/)
 7. [docusaurus](https://www.docusaurus.cn/)
 
-# :fontawesome-brands-linux:  linux
+# linux
 
 1. [man pages](https://linux.die.net/)
 2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
@@ -95,7 +95,7 @@
 4. [bash教程](https://wangdoc.com/bash/intro.html)
 5. [shell编程范例](https://tinylab-1.gitbook.io/shellbook/)
 
-# ✈️ gitbook
+# gitbook
 
 1. [springboot](https://jack80342.gitbook.io/spring-boot/iv.-spring-boot-features)
 2. [java学习指南](https://yunlzheng.gitbook.io/prometheus-book/)
