@@ -23,7 +23,7 @@
 6. [多看](https://www.duokan.com/list/6-1)
 7. [京东](https://channel.jd.com/1713-3287.html)
 
-#  云原生实验室
+# 云原生实验室
 
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
 2. [tinylab linux实验室](http://tinylab.org/)
@@ -54,7 +54,7 @@
 4. [chocolatey](https://chocolatey.org/)
 5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
-#  精品教程
+# 精品教程
 
 3. [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm) ⭐️ ⭐️ ⭐️ ⭐️
 4. [书栈网](https://www.bookstack.cn/)
@@ -77,7 +77,7 @@
 
 1. [阮一峰](https://www.ruanyifeng.com/blog/archives.html)
 
-#  文档生成器
+# 文档生成器
 
 1. [sphinx](https://iridescent.ink/HowToMakeDocs/Basic/intro.html)
 2. [无渲染生成器](https://docsify.js.org/#/)
@@ -94,6 +94,7 @@
 3. [linux命令行](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
 4. [bash教程](https://wangdoc.com/bash/intro.html)
 5. [shell编程范例](https://tinylab-1.gitbook.io/shellbook/)
+6. [linux from scratch](https://lctt.github.io/LFS-BOOK/lfs-systemd/index.html)
 
 # gitbook
 
