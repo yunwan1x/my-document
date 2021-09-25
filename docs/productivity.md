@@ -10,3 +10,7 @@
 8. pureocr离线识别ocr软件
 9. charles网络抓包替换
 10. idea和vscode等代码片段或者template功能要使用好。
+
+# 安卓工具
+
+1. juicessh
