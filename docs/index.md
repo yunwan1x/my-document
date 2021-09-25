@@ -55,7 +55,7 @@
 1. [cheetsheet](https://cheatography.com/)
 2. [awesome cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets)
 3. [awesome cheatsheet中文版](https://github.com/yunwan1x/awesome-cheatsheets)
-4. <mar>[navi cheat 工具](https://github.com/denisidoro/navi)</mark>
+4. <mark>[navi cheat 工具](https://github.com/denisidoro/navi)</mark>
 
 # 博客
 
