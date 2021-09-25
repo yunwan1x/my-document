@@ -1,19 +1,6 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/25_05:07:57-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-222-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/06_05:07:30-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-165-orange.svg)
 
-# 需要整理的主题
-
-1. 有趣的网站， ppt，办公神器，效率工具，编程，架构，生活，读书
-2. 股市，投资。
-3. 外语
-
-# 工具箱
-
-1. [toolnb](http://www.toolnb.com/toolslist/167.html)
-2. [tool-lu](https://tool.lu/)
-3. [脚本之家工具箱](http://tools.jb51.net/)
-4. [atoolbox](http://www.atoolbox.net/)
-
-# 数字图书馆
+# :material-library: 数字图书馆
 
 1. [图书馆参考联盟](http://www.ucdrs.superlib.net/)
 2. [google图书](https://books.google.com/)
@@ -23,19 +10,19 @@
 6. [多看](https://www.duokan.com/list/6-1)
 7. [京东](https://channel.jd.com/1713-3287.html)
 
-# 云原生实验室
+# :material-cloud: 云原生实验室
 
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
-2. [tinylab linux实验室](http://tinylab.org/)
-3. [开发者头条](https://toutiao.io/posts/hot/7)
+2. [tinylab linux实验室](http://tinylab.org/) :star:
+3. [开发者头条](https://toutiao.io/posts/hot/7) :star:
 
-# 剑指offer
+# :material-offer: 剑指offer
 
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
 3. [labuladong算法](https://github.com/labuladong/fucking-algorithm)
 
-# 开源社区
+# :fontawesome-brands-github: 开源社区
 
 1. [github排行榜](https://www.githubs.cn/top)
 2. [libs.garden](https://libs.garden/)
@@ -46,39 +33,35 @@
 7. [cncf基金会](https://www.cncf.io/projects/)
 8. [awesome list](https://github.com/sindresorhus/awesome#programming-languages)
 
-# 开源软件
+# :fontawesome-brands-github: 开源软件
 
 1. [alternativeto](https://alternativeto.net/)
 2. [alternativeto chinese](https://zh.altapps.net/)
 3. [清华开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 4. [chocolatey](https://chocolatey.org/)
-5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) :star:
 
-# 精品教程
+# :books: 精品教程
 
-3. [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm) ⭐️ ⭐️ ⭐️ ⭐️
-4. [书栈网](https://www.bookstack.cn/)
-5. [build your own](https://github.com/danistefanovic/build-your-own-x)
-6. [机器学习](https://github.com/d2l-ai/d2l-zh)
-7. [c语言中文网](http://c.biancheng.net/)
-8. [菜鸟教程](https://www.runoob.com/)
-9. [极客学院](https://wiki.jikexueyuan.com/)
-10. [docker教程](https://yeasy.gitbook.io/docker_practice/)
-11. [阮一峰网道合计](https://github.com/wangdoc)
-12. [liaoxuefeng](https://www.liaoxuefeng.com/wiki/1016959663602400)
+2. [书栈网](https://www.bookstack.cn/)
+3. [build your own](https://github.com/danistefanovic/build-your-own-x)
+4. [机器学习](https://github.com/d2l-ai/d2l-zh)
+5. [c语言中文网](http://c.biancheng.net/)
+6. [菜鸟教程](https://www.runoob.com/)
+7. [极客学院](https://wiki.jikexueyuan.com/)
 
-# cheatsheet
+# :material-note: cheatsheet
 
-1. [cheat.sh](http://cheat.sh/)
-2. [cheetsheet](https://cheatography.com/)
-3. [awesome cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets)
-4. [awesome cheatsheet中文版](https://github.com/yunwan1x/awesome-cheatsheets)
+1. [cheetsheet](https://cheatography.com/)
+2. [awesome cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets)
+3. [awesome cheatsheet中文版](https://github.com/yunwan1x/awesome-cheatsheets)
 
-# 博客
+# :material-blogger: 博客
 
 1. [阮一峰](https://www.ruanyifeng.com/blog/archives.html)
+2. [神奇的linux世界](https://www.hi-linux.com/archives/2021/09/)
 
-# 文档生成器
+# :material-file-document: 文档生成器
 
 1. [sphinx](https://iridescent.ink/HowToMakeDocs/Basic/intro.html)
 2. [无渲染生成器](https://docsify.js.org/#/)
@@ -88,17 +71,10 @@
 6. [mkdocs](https://www.mkdocs.org/)
 7. [docusaurus](https://www.docusaurus.cn/)
 
-# linux
+# :fontawesome-brands-linux:  linux
 
 1. [man pages](https://linux.die.net/)
 2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
 3. [linux命令行](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
 4. [bash教程](https://wangdoc.com/bash/intro.html)
 5. [shell编程范例](https://tinylab-1.gitbook.io/shellbook/)
-6. [linux from scratch](https://lctt.github.io/LFS-BOOK/lfs-systemd/index.html)
-
-# gitbook
-
-1. [springboot](https://jack80342.gitbook.io/spring-boot/iv.-spring-boot-features)
-2. [java学习指南](https://yunlzheng.gitbook.io/prometheus-book/)
-3. [docker从入门到精通](https://yeasy.gitbook.io/docker_practice/)
