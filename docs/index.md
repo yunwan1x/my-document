@@ -1,4 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/25_14:40:03-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-167-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-09/25_14:33:01-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-166-orange.svg)
 
 # 数字图书馆
 
@@ -13,8 +13,8 @@
 # 云原生实验室
 
 1. [云原生实验室](https://mp.weixin.qq.com/s/gL8lczips-VjZBM0cy109g)
-2. [tinylab linux实验室](http://tinylab.org/) :star:
-3. [开发者头条](https://toutiao.io/posts/hot/7) :star:
+2. [tinylab linux实验室](http://tinylab.org/)
+3. [开发者头条](https://toutiao.io/posts/hot/7)
 
 # 剑指offer
 
@@ -39,9 +39,9 @@
 2. [alternativeto chinese](https://zh.altapps.net/)
 3. [清华开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 4. [chocolatey](https://chocolatey.org/)
-5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) :star:
+5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
-#  精品教程
+# 精品教程
 
 2. [书栈网](https://www.bookstack.cn/)
 3. [build your own](https://github.com/danistefanovic/build-your-own-x)
@@ -50,12 +50,12 @@
 6. [菜鸟教程](https://www.runoob.com/)
 7. [极客学院](https://wiki.jikexueyuan.com/)
 
-#  cheatsheet
+# cheatsheet
 
 1. [cheetsheet](https://cheatography.com/)
 2. [awesome cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets)
 3. [awesome cheatsheet中文版](https://github.com/yunwan1x/awesome-cheatsheets)
-4. <mark>[navi cheat 工具](https://github.com/denisidoro/navi)</mark>
+4. [navi cheat 工具](https://github.com/denisidoro/navi)
 
 # 博客
 
@@ -72,7 +72,7 @@
 6. [mkdocs](https://www.mkdocs.org/)
 7. [docusaurus](https://www.docusaurus.cn/)
 
-#  linux
+# linux
 
 1. [man pages](https://linux.die.net/)
 2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
