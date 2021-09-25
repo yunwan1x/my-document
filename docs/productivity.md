@@ -13,4 +13,5 @@
 
 # 安卓工具
 
-1. juicessh
+1. juiceSSH
+2. joplin
