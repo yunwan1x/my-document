@@ -74,8 +74,8 @@
 
 # linux
 
-1. [man pages](https://linux.die.net/)
-2. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
-3. [linux命令行](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
-4. [bash教程](https://wangdoc.com/bash/intro.html)
-5. [shell编程范例](https://tinylab-1.gitbook.io/shellbook/)
+1. [arch linux wiki](https://wiki.archlinux.org/title/OpenSSH_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+2. [man pages](https://linux.die.net/)
+3. [linux命令大全](https://wangchujiang.com/linux-command/#!kw=sed)
+4. [linux命令行](https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+5. [bash教程](https://wangdoc.com/bash/intro.html)
