@@ -1,8 +1,9 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-10/07_23:59:36-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-183-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-10/07_17:15:44-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-182-orange.svg)
 
 # 工具软件
 
 1. [程序员导航](https://cxy521.com/)
+2. [超强在线工具箱](https://zhuanlan.zhihu.com/p/87050921)
 
 # 数字图书馆
 
