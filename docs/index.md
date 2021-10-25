@@ -28,6 +28,7 @@
 1. [csnote](https://www.cyc2018.xyz/)
 2. [小浩算法](https://github.com/geekxh/hello-algorithm)
 3. [labuladong算法](https://github.com/labuladong/fucking-algorithm)
+4. [刷题网站](https://www.zhihu.com/answer/2007244445)
 
 # 开源社区
 
