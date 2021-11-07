@@ -15,3 +15,8 @@
 
 1. juiceSSH
 2. joplin
+
+# Office插件
+
+1. slide
+2. key
