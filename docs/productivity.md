@@ -19,4 +19,4 @@
 # Office插件
 
 1. slide
-2. key
+2. [推荐](https://post.smzdm.com/p/adwgw4wz/)
