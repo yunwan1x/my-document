@@ -48,6 +48,7 @@
 3. [清华开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 4. [chocolatey](https://chocolatey.org/)
 5. [github中文排名](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+6. [gitlogs 仓库排名](https://www.gitlogs.com/)
 
 # 精品教程
 
