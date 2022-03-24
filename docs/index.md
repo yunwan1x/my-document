@@ -80,6 +80,7 @@
 5. [hexo](https://hexo.io/zh-cn/docs/)
 6. [mkdocs](https://www.mkdocs.org/)
 7. [docusaurus](https://www.docusaurus.cn/)
+8. mindoc
 
 # linux
 
