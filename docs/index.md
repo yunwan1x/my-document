@@ -1,4 +1,4 @@
-![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-03/25_05:10:15-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-361-orange.svg)
+![CI](https://github.com/yunwan1x/my-document/actions/workflows/documentation.yml/badge.svg) ![buidtime](https://img.shields.io/badge/build_time-03/26_05:09:46-519dd9.svg) ![push_times](https://img.shields.io/badge/push_times-362-orange.svg)
 
 # 工具软件
 
